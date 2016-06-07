@@ -8,6 +8,7 @@ _________________
 
 **Repo Link**
 
+ https://github.com/BethMwangi/by_hand_design
 
 **Project Details**
  by-hand-design is a website agency/business that focuses on art. 
@@ -32,7 +33,7 @@ Foundation 6
 _________________
 
 **Repo Link**
-
+ https://github.com/BethMwangi/254_kiddies
 
 **Project Details**
  An e-commerce website selling kids stuff
