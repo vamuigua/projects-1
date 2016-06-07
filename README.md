@@ -1,5 +1,7 @@
-## projects
-My personal projects 
+
+
+## My personal projects 
+
 
 # by-hand-designs
 _________________
@@ -26,7 +28,7 @@ Foundation 6
  Beth Mwangi
  
  
- # 254-kiddies-couture
+# 254-kiddies-couture
 _________________
 
 **Repo Link**
