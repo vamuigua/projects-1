@@ -8,7 +8,7 @@ _________________
 
 
 **Project Details**
-by-hand-design is a website agency that focuses on art. 
+ by-hand-design is a website agency/business that focuses on art. 
 
 
 **Features**
