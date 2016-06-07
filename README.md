@@ -14,10 +14,10 @@ _________________
 **Features**
 One-page website
 NavBar Links: 
- 1.Home 
- 2.About us
- 3.Portfolio
- 4.Contact us
+ 1. Home 
+ 2. About us
+ 3. Portfolio
+ 4. Contact us
 
 **Tools**
 Foundation 6
