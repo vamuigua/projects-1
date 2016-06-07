@@ -56,7 +56,7 @@ API Integration: social media
  Beth Mwangi
  
  
- # FrontEndFour Menu
+# FrontEndFour Menu
 _________________
 
 **Repo Link**
@@ -78,3 +78,29 @@ Foundation 6
 **Contributors**
  Beth Mwangi
 
+
+# Library Management System
+_________________
+
+**Repo Link**
+
+https://github.com/BethMwangi/library_systempython
+
+**Project Details**
+A library system where a student can register/login and select books from the library catalogue 
+
+
+**Features**
+ Login Page
+ Student portal/Welcome page
+ Database Integration
+ 
+
+
+**Tools**
+  Flask
+
+**Contributors**
+ Beth Mwangi
+ Kelvin Muchui
+ 
