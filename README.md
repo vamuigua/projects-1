@@ -12,11 +12,12 @@ by-hand-design is a website agency that focuses on art.
 
 
 **Features**
+One-page website
 NavBar Links: 
- +Home 
- +About us
- +Portfolio
- +Contact us
+ 1.Home 
+ 2.About us
+ 3.Portfolio
+ 4.Contact us
 
 **Tools**
 Foundation 6
