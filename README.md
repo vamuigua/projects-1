@@ -24,6 +24,7 @@ NavBar Links:
 
 **Tools**
 Foundation 6
+Jquery
 
 **Contributors**
  Beth Mwangi
@@ -73,6 +74,7 @@ Menu
 
 **Tools**
 Foundation 6
+API Integration
 
 
 **Contributors**
@@ -99,6 +101,8 @@ A library system where a student can register/login and select books from the li
 
 **Tools**
   Flask
+  Heroku
+  Gunicorn
 
 **Contributors**
  Beth Mwangi
