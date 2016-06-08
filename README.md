@@ -27,7 +27,7 @@ Foundation 6
 Jquery
 
 **Contributors**
- Beth Mwangi
+ [Beth Mwangi](https://github.com/BethMwangi)
  
  
 # 254-kiddies-couture
@@ -54,7 +54,7 @@ Foundation 6
 API Integration: social media
 
 **Contributors**
- Beth Mwangi
+[Beth Mwangi](https://github.com/BethMwangi)
  
  
 # FrontEndFour Menu
@@ -78,7 +78,7 @@ API Integration
 
 
 **Contributors**
- Beth Mwangi
+[Beth Mwangi](https://github.com/BethMwangi)
 
 
 # Library Management System
@@ -106,8 +106,8 @@ A library system where a student can register/login and select books from the li
 
 **Contributors**
   
-  [Kelvin Muchui](https://github.com/kelvinmuchui)
-  [Beth Mwangi](https://github.com/BethMwangi)
+ + [Kelvin Muchui](https://github.com/kelvinmuchui)
+ + [Beth Mwangi](https://github.com/BethMwangi)
  
 # Burger Dome cafe
 _________________
@@ -129,6 +129,6 @@ A Fast food cafe website where a user can order food
   Foundation 6
 
 **Contributors**
- Beth Mwangi
+ [Beth Mwangi](https://github.com/BethMwangi)
  
  
