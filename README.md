@@ -105,8 +105,8 @@ A library system where a student can register/login and select books from the li
   Gunicorn
 
 **Contributors**
- Beth Mwangi
- Kelvin Muchui
+ [Kelvin Muchui](https://github.com/kelvinmuchui)
+ [Beth Mwangi](https://github.com/BethMwangi)
  
 # Burger Dome cafe
 _________________
