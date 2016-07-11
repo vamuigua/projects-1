@@ -8,7 +8,8 @@ _________________
 
 **Repo Link**
 
- https://github.com/BethMwangi/by_hand_design
+https://github.com/BethMwangi/by-hand-design
+https://bethmwangi.github.io/by-hand-design/
 
 **Project Details**
  by-hand-design is a website agency/business that focuses on art. 
@@ -35,9 +36,11 @@ _________________
 
 **Repo Link**
  https://github.com/BethMwangi/254_kiddies
+ 
 
 **Project Details**
  An e-commerce website selling kids stuff
+ https://bethmwangi.github.io/254_kiddies/
 
 
 **Features**
@@ -106,7 +109,7 @@ A library system where a student can register/login and select books from the li
 
 **Contributors**
   
- + [Kelvin Muchui](https://github.com/kelvinmuchui)
+
  + [Beth Mwangi](https://github.com/BethMwangi)
  
 # Burger Dome cafe
